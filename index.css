@@ -1,0 +1,94 @@
+
+#frase{
+    font-size:19px;
+    font-family:'Arial';
+}
+
+body{
+    margin:5px;
+    
+}
+
+p{
+    text-align:center;
+    
+
+}
+em strong{
+    color:red;
+}
+
+nav{
+    position:absolute;
+    top:20px;
+    right:200px;
+    box-sizing: border-box;
+    
+    
+}
+h1{
+    color:white;
+}
+a{
+    text-decoration: none;
+    color:white;
+    
+}
+ nav li{
+    display:inline;
+    margin:0 0 0 15px;
+    font-size:20px;
+    font-weight:bold;
+    text-transform:uppercase;
+    
+ }
+ header{
+    display: block;
+    margin:auto;
+    padding:4px;
+    background:url(Imagen/bg.jpg);
+ }
+
+ 
+#banner{
+    width:100%;
+}
+
+
+.principal{
+    background-color:gray;
+    padding:20px;
+}
+
+.itens{
+    font-style:italic;
+}
+
+.beneficios{
+    background-color:#ffffff;
+    padding:20px;
+}
+.lista{
+    display:inline-block;
+    vertical-align:top;
+    width:40%;
+    margin-right:15%;
+
+}
+
+.imgben{
+    width:40%;
+
+    
+}
+footer{
+    text-align:center;
+    background:url(Imagen/bg.jpg);
+    padding:40px 0 ;
+}
+.copy{
+    color:white;
+    font-size:13px;
+    margin-top:20px;
+
+}
